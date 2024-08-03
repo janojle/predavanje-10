@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Darko Janojlic",
+        "age": 35,
+        "height": 202,
+        "gender": "male"
+    },
+    {
+        "name": "Milos Nikolic",
+        "age": 44,
+        "height": 185,
+        "gender": "male"
+    },
+    {
+        "name": "Marija Jovic",
+        "age": 32,
+        "height": 155,
+        "gender": "female"
+    },
+    {
+        "name": "Petar Petrovic",
+        "age": 29,
+        "height": 187,
+        "gender": "male"
+    },
+    {
+        "name": "Petar Petrovic",
+        "age": 29,
+        "height": 187,
+        "gender": "male"
+    }
+]
