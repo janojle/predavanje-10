@@ -1,0 +1,57 @@
+[
+  {
+    "name" : "iPhone 14",
+    "price": 1200,
+    "amount": 15
+  },
+  {
+    "name" : "Samsung Galaxy S23",
+    "price": 999,
+    "amount": 20
+  },
+  {
+    "name" : "Google Pixel 7",
+    "price": 899,
+    "amount": 10
+  },
+  {
+    "name" : "OnePlus 11",
+    "price": 850,
+    "amount": 12
+  },
+  {
+    "name" : "Sony Xperia 1 V",
+    "price": 1200,
+    "amount": 8
+  },
+  {
+    "name" : "Huawei P60 Pro",
+    "price": 1100,
+    "amount": 5
+  },
+  {
+    "name" : "Xiaomi 13 Pro",
+    "price": 900,
+    "amount": 18
+  },
+  {
+    "name" : "Oppo Find X6 Pro",
+    "price": 950,
+    "amount": 7
+  },
+  {
+    "name" : "Asus ROG Phone 7",
+    "price": 1300,
+    "amount": 4
+  },
+  {
+    "name" : "Nokia XR20",
+    "price": 650,
+    "amount": 14
+  },
+  {
+    "name" : "Realme GT 3",
+    "price": 750,
+    "amount": 9
+  }
+]

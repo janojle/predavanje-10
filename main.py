@@ -1,17 +1,13 @@
 import  json
 #r - read
-with open("data/user.json", "r") as file:
-    data = json.load(file)
-    #data i file su varijable
-    data.append({
-        "name": "Petar Petrovic",
-        "age": 29,
-        "height": 187,
-        "gender": "male"
-    })
+
+from methods import load_file, save_file
+data = load_file("data/user.json")
 
 print(data)
 
-# w -write
-with open("data/user.json", "w") as file:
-    json.dump(data, file, indent=4)
+data.append({
+    "name": "Test test"
+})
+
+save_file("data/user.json", data)
